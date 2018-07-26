@@ -11,3 +11,8 @@
 [8. Poll Mode Driver](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/8.md)  
 [9. Generic flow API (rte_flow)](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/9.md)  
 [10. Traffic Metering and Policing API](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/10.md)  
+[11. Traffic Management API](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/11.md)  
+[12. Cryptography Device Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/12.md)  
+[13. Security Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/13.md)  
+[14. Link Bonding Poll Mode Driver Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/14.md)  
+[15. Timer Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/15.md)  
