@@ -16,3 +16,8 @@
 [13. Security Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/13.md)  
 [14. Link Bonding Poll Mode Driver Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/14.md)  
 [15. Timer Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/15.md)  
+[16. Hash Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/16.md)  
+[17. Elastic Flow Distributor Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/17.md)  
+[18. Membership Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/18.md)  
+[19. LPM Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/19.md)  
+[20. LPM6 Library](https://github.com/gogodick/dpdk_prog_guide/blob/master/Text/20.md)  
